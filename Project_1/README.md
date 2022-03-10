@@ -55,3 +55,29 @@ __STRENGTHS__
 
 - 
 
+**5W's & 1H**
+--
+
+**WHO**
+
+- People who have vehicle. 
+ 
+**WHAT**
+ 
+- It is a system which wirelessly lock/unlock door of a vehicle and perform different functionalities from a distance.
+ 
+**WHEN**
+ 
+- Whenever the user wants to lock or unlock the door of the vehicle and wants to use its other features.
+ 
+ **WHERE**
+ 
+ - It can be use anywhere
+
+**WHY**
+
+- For an easy use of vehicle and to ensure secuirity.
+
+**HOW**
+
+- The system can be operated by just clicking a button .
