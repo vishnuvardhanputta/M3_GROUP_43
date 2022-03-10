@@ -53,7 +53,7 @@ __STRENGTHS__
 
 **THREATS**
 
-- 
+- The components of the system are hard to replace.
 
 **5W's & 1H**
 --
