@@ -9,10 +9,49 @@ Remote keyless entry is a system which allows users to lock and unlock the doors
 --
 
 1) Use to lock or unlock vehicles from  a distance.
-2) LEDs to indicate which functionality is currently performing.
+2) Have LEDs to indicate which functionality is currently performing.
 3) Small in size and handy too.
 4) Can activate/deactivate alarm of the vehicle
 5) Have approach light functionality.
 6) Keeps the vehicle secure.
 
+**REQUIREMENTS**
+--
+
+**HIGH LEVEL REQUIREMENT**
+
+|Test ID  |    Description  |  
+-------------|-----------------------------------
+|HL01     |    The system shall have alarm activation/deactivation functionality | 
+|HL02     |    The system shall have approach light funtionality       |
+|HL03     |    The system shall be secure   |
+|HL04     |    The system shall lock/unlock vehicle doors wirelessly  |
+
+**LOW LEVEL REQUIREMENT**
+
+|Test ID   |  Description | 
+------------------|-------------------
+|LL01     | All the LEDs shall turn on by single click.  |
+|LL02     | All the LEDs shall turn on after two clicks.|
+|LL03     | All LEDs shall turn on in clockwise after three clicks. |
+|LL04     | |
+
+**SWOT ANALYSIS**
+--
+
+__STRENGTHS__
+
+- It works wirelessly and reduce human effort.
+
+**WEAKNESSES**
+
+- It has limited range(distance).  
+
+**OPPORTUNITIES**
+
+- It can be implemented on mobile phones and its range(distance) can be increased. 
+
+**THREATS**
+
+- 
 
