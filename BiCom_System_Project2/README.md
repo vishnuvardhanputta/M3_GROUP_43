@@ -82,3 +82,20 @@ __STRENGTHS__
 |HL03                      |LL03   | All LEDs shall turn on in clockwise manner after three presses     |
 |HL04                      |LL04   | All LEDs shall turn on in anti-clockwise manner after four presses |
 
+**ARCHITECTURE**
+--
+**BEHAVIOURAL DIAGRAM**
+
+![M32_FLOW](https://user-images.githubusercontent.com/98827063/157846591-1c843319-b04e-4a6e-b905-c2135b36a8d0.jpg)
+
+
+**STRUCTURAL DIAGRAM**
+
+![STRUC](https://user-images.githubusercontent.com/98827063/157846761-82704962-d442-4f84-bd36-716e478a8052.jpg)
+
+**BLOCK DIAGRAM**
+
+
+
+
+**CIRCUIT DESIGN**
