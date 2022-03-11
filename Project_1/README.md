@@ -92,6 +92,7 @@ __STRENGTHS__
 
 **STRUCTURAL DIAGRAM**
 
+![M3_STRUCTURAL](https://user-images.githubusercontent.com/98827063/157811589-a95b4b59-e077-456e-8e43-3ef75b26a0c3.jpg)
 
 
 
