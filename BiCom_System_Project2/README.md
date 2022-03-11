@@ -104,7 +104,7 @@ __STRENGTHS__
 ---
 
 **HIGH LEVEL TEST PLAN**
-======
+
 
 |Test ID  |Description                        | Input             |Expected Output         |Actual Output          |Pass/Fail |
 --------------------                          |---------------    |------------------      |---------------        |----------|--------
@@ -114,8 +114,8 @@ __STRENGTHS__
 |   04    | Print door status                 | 4 press buttons   | Door status printed    | Door status printed   | Pass     |
 
 
-**LOW LEVEL TEST PLAN** 
-====
+**LOW LEVEL TEST PLAN**
+
 
 |Test ID  |Description                                  | Input            |Expected Output                       |Actual Output                         |Pass/Fail |
 --------------------                                    |---------------   |------------------                    |---------------                       |--------- |-
