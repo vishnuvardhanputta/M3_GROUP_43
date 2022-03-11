@@ -81,3 +81,25 @@ __STRENGTHS__
 **HOW**
 
 - The system can be operated by just clicking a button .
+
+**ARCHITECTURE**
+--
+**BEHAVIOURAL DIAGRAM**
+
+![M3_FLOWCHAT](https://user-images.githubusercontent.com/98827063/157807800-fe91f304-c0bd-4f5d-9d4f-80b07c78daee.jpg)
+
+
+
+**STRUCTURAL DIAGRAM**
+
+
+
+
+**BLOCK DIAGRAM**
+
+
+
+
+**CIRCUIT DESIGN**
+
+
