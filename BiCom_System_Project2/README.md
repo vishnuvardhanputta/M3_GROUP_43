@@ -1,4 +1,4 @@
-**REMOTE KEYLESS ENTRY** 
+**BiCom System** 
 ====================
 
 **INTRODUCTION**
