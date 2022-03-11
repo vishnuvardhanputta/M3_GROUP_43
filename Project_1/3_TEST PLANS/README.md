@@ -12,15 +12,10 @@
 **LOW LEVEL TEST PLAN** 
 ====
 
-|Test ID  |Description                                                                   | Input                              |Expected Output     |Actual Output    |Pass/Fail |
---------------------                                                                     |---------------                     |------------------  |---------------  |--------- |-
-|   01    | Ultrasonic distance sensor below fix point                                   | Voltage from potentiometer = 700mV | Generate pulses    | Generate pulses | Pass     |
-|   02    | Ultrasonic distance sensor above fix point                                   | Voltage from potentiometer = 1.085V| Generate pulses    | Generate pulses | Pass     |
-|   03    | Motor above fix point when potentiometer output is 1.085V                    | PWM Signal                         | Motor starts       | Motor starts    | Pass     |
-|   04    | Motor below fix point when potentiometer output is 865mV                     | PWM Signal                         | Motor stops        | Motor stops     | Pass     |
-|   05    | Red Led should not glow below fix point when potentiometer output is 700mV   | Current from microcontroller       | Do not glows       | Do not glows    | Pass     |
-|   06    | Red Led should glow above fix point when potentiometer output is 1.100V      | Current from microcontroller       | Glows              | Glows           | Pass     |
-|   07    | Green Led should not glow above fix point when potentiometer output is 1.100V| Current from microcontroller       | Do not glows       | Do not glows    | Pass     |
-|   08    | Green Led should glow below fix point when potentiometer output is 865mV     | Current from microcontroller       | Glows              | Glows           | Pass     |
-|   09    | Potentiometer                                                                |  5V                                | 1.100V             | 1.100V          | Pass     |
-|   10    | Potentiometer                                                                |  5V                                | 680mV              | 680mV           | Pass     |
+|Test ID  |Description                                  | Input            |Expected Output                       |Actual Output                         |Pass/Fail |
+--------------------                                    |---------------   |------------------                    |---------------                       |--------- |-
+|   01    | All LEDs shall on at same time              | 1 press button   | All LEDs on                          | All LEDs on                          | Pass     |
+|   02    | All LEDs shall off at same time             | 2 press buttons  | All LEDs off                         | All LEDs off                         | Pass     |
+|   03    | All LEDs shall on in clockwise              | 3 press buttons  | All LEDs on in clockwise manner      | All LEDs on in clockwise manner      | Pass     |
+|   04    | All LEDs shall on in anti-clockwise         | 4 press buttons  | All LEDs on in anti-clockwise manner | All LEDs on in anti-clockwise manner | Pass     |
+
