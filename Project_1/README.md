@@ -25,16 +25,17 @@ Remote keyless entry is a system which allows users to lock and unlock the doors
 |HL01     |    The system shall have alarm activation/deactivation functionality | 
 |HL02     |    The system shall have approach light funtionality       |
 |HL03     |    The system shall be secure   |
-|HL04     |    The system shall lock/unlock vehicle doors wirelessly  |
+|HL04     |    The system shall lock vehicle doors wirelessly  |
+|HL05     |    The system shall unlock vehicle doors wirelessly |
 
 **LOW LEVEL REQUIREMENT**
 
-|Test ID   |  Description | 
-------------------|-------------------
-|LL01     | All the LEDs shall turn on by single click.  |
-|LL02     | All the LEDs shall turn on after two clicks.|
-|LL03     | All LEDs shall turn on in clockwise after three clicks. |
-|LL04     | |
+|For High level requirement|Test ID| Description                                                     | 
+---------------------------|-------|------------------------------------------------------------------
+|HL04                      |LL01   | All the LEDs shall turn on at the same time by single press     |
+|HL05                      |LL02   | All the LEDs shall turn off at the same time by two presses     |
+|HL01                      |LL03   | All LEDs shall turn on in clockwise manner by three presses     |
+|HL02                      |LL04   | All LEDs shall turn on in anti-clockwise manner by four presses |
 
 **SWOT ANALYSIS**
 --
