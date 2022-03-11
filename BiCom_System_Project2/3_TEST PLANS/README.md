@@ -1,8 +1,8 @@
 **TEST PLANS**
----
+===
 
 **HIGH LEVEL TEST PLAN**
-======
+--
 
 |Test ID  |Description                        | Input             |Expected Output         |Actual Output          |Pass/Fail |
 --------------------                          |---------------    |------------------      |---------------        |----------|--------
@@ -13,7 +13,7 @@
 
 
 **LOW LEVEL TEST PLAN** 
-====
+--
 
 |Test ID  |Description                                  | Input            |Expected Output                       |Actual Output                         |Pass/Fail |
 --------------------                                    |---------------   |------------------                    |---------------                       |--------- |-
