@@ -1,12 +1,12 @@
 **HIGH LEVEL TEST PLAN**
 ======
 
-|Test ID  |Description                        | Input             |Expected Output          |Actual Output    |Pass/Fail |
---------------------                          |---------------    |------------------      |---------------  |----------|-----------
-|   01    | Vehicle door lock                 | 1 press button    | Vehicle locked         | Generate pulses | Pass     |
-|   02    | Vehicle door unlock               | 2 press buttons   | Vehicle unlocked       | Motor starts    | Pass     |
-|   03    | Alarm activation/deactivation     | 3 press buttons   | Activated/deactivated  | Do not glows    | Pass     |
-|   04    | Approach light                    | 4 press buttons   | On                     | On              | Pass     |
+|Test ID  |Description                        | Input             |Expected Output         |Actual Output          |Pass/Fail |
+--------------------                          |---------------    |------------------      |---------------        |----------|-----------
+|   01    | Vehicle door lock                 | 1 press button    | Vehicle locked         | Vehicle locked        | Pass     |
+|   02    | Vehicle door unlock               | 2 press buttons   | Vehicle unlocked       | Vehicle unlocked      | Pass     |
+|   03    | Alarm activation/deactivation     | 3 press buttons   | Activated/deactivated  | Activated/deactivated | Pass     |
+|   04    | Approach light                    | 4 press buttons   | On                     | On                    | Pass     |
 
 
 **LOW LEVEL TEST PLAN** 
