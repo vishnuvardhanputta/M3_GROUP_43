@@ -14,25 +14,7 @@ A BiCom system is the extension of the unidirectional RKE(Remote Keyless Entry) 
 4) The system can display the door status of the vehicle.
 
 **SWOT ANALYSIS**
---
-
-__STRENGTHS__
-
-- It works wirelessly and reduce human effort.
-- Shows different vehicle status
-
-**WEAKNESSES**
-
-- It has limited range(distance).  
-
-**OPPORTUNITIES**
-
-- It can be implemented on mobile phones and its range(distance) can be increased. 
-- More features can be added.
-
-**THREATS**
-
-- The components of the system are hard to replace.
+![Screenshot (223)](https://user-images.githubusercontent.com/99093515/158006363-dece240f-df3e-47ab-9385-db4d0020bdef.png)
 
 **5W's & 1H**
 --
@@ -96,6 +78,7 @@ __STRENGTHS__
 **BLOCK DIAGRAM**
 
 
+![Screenshot (221)](https://user-images.githubusercontent.com/99093515/157855812-73c4b84f-f82b-4321-b728-50bedc4318e2.png)
 
 
 **CIRCUIT DESIGN**
